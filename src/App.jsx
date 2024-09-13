@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import { Header } from './components/header'
-import { SideBar } from './components/sidebar';
+import { SideBar } from './components/sideBar';
 import { Body } from './components/ui/body';
 import { Content } from './components/ui/content';
 import { Profile } from './components/ui/profile/profile';
